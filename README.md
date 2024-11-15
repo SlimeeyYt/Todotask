@@ -28,37 +28,5 @@ Option 5: Exit the application.
 Requirements
 Python 3.6 or later
 No external dependencies (uses Python's standard library)
-File Structure
-todo_list.py: Main Python script for the application.
-tasks.json: JSON file for storing tasks (created automatically when the script is run).
-Example Workflow
-Add a task:
-
-mathematica
-Copy code
-Enter the task name: Buy groceries
-Enter due date (YYYY-MM-DD): 2024-11-20
-View tasks:
 
 
-
-1. Task: Buy groceries
-   Status: Pending
-   Due: 2024-11-20
-   Added on: 2024-11-15 10:15:00
-Mark a task as completed:
-
-
-Enter task number to mark as completed: 1
-View updated tasks:
-
-
-1. Task: Buy groceries
-   Status: Completed
-   Due: 2024-11-20
-   Added on: 2024-11-15 10:15:00
-Future Enhancements
-Add priority levels for tasks.
-Include task categorization (work, personal, etc.).
-Support editing existing tasks.
-Create a GUI version of the application.
