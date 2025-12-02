@@ -66,5 +66,3 @@ todo_list.py – Main application logic
 
 tasks.json – Stores all task data persistently
 
-▶️ How to Use
-1. Clone the repository:
